@@ -12,13 +12,3 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img align="left" alt="ruby" width="26px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="postgresql" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> </a>
-
-<br/>
-<br/>
-
-
-<div>
-  <a href="https://github.com/victorcdp">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorcdp&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcdp&layout=compact&langs_count=7&theme=onedark"/>
-</div> <br>
