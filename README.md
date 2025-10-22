@@ -1,7 +1,7 @@
 ### João Victor Cordeiro
 
 - Computer Science BSc
-- Currently working at Liferay as a Software Engineer
+- Currently working at [Ília](https://ilia.digital/en/) as a Software Engineer
 - Self-learning as a hobby through online courses and bootcamps ([OSSU](https://github.com/ossu/computer-science), [P1xt Guide](https://github.com/P1xt/p1xt-guides), [Teach Yourself CS](https://teachyourselfcs.com/) and the [App Academy Open Bootcamp](https://www.appacademy.io/course/app-academy-open)
 - Native language is Brazillian Portuguese, pretty fluent in English and planning to learn a few others.
 
